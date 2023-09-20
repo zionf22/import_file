@@ -3,7 +3,7 @@ import {readFile} from "fs";
 import { Request, Response, Router} from "express";
 
 import multer from "multer";
-import { request } from "http";
+
 
 const multerconfig = multer()
 
