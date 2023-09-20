@@ -1,0 +1,11 @@
+{
+  "name": "import_file",
+  "version": "1.0.0",
+  "description": "read file by import to local system",
+  "main": "readfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
